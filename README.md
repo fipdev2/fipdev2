@@ -23,7 +23,7 @@
   <img align="center" alt="fip-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="fip-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="fip-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="right" alt="fip-pic" height="150" style="border-radius: 100px;" src="https://static.wixstatic.com/media/6f8d3b_35d651d28cc94931a8916f8ac41f43d1~mv2.png/v1/fill/w_1024,h_1024,al_c/6f8d3b_35d651d28cc94931a8916f8ac41f43d1~mv2.png">
+  <img align="right" alt="fip-pic" height="200" style="border-radius: 100px;" src="https://static.wixstatic.com/media/6f8d3b_35d651d28cc94931a8916f8ac41f43d1~mv2.png/v1/fill/w_1024,h_1024,al_c/6f8d3b_35d651d28cc94931a8916f8ac41f43d1~mv2.png">
 </div>
   
   ##
