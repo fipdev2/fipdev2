@@ -1,22 +1,22 @@
-### Olá, eu sou o Filipe 👋
+### Hey, I am Filipe 👋
 
 
 
-- 🔭 Sou tech lead da EJCM
-- 🌱 Estou estudando Docker
-- 😄 Pronomes: ele/dele
-- ⚡ Fun fact: sou otaku e bodybuilder ao mesmo tempo
+- 🔭 2 years of volontary work in web developping
+- 🌱 improving my docker and java skills
+- 😄 proficient in node.js and react development 
+- ⚡ fun fact: weeb and gym lover at the same time
 
  ##
  
-<div>
   ### Git stats 🧑‍💻
+<div>
   <img height="196em" src="https://github-readme-stats.vercel.app/api?username=fipdev2&show_icons=true&theme=radical">
   <img height="196em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&theme=radical&layout=compact">
 </div>
 
-<div style="display: inline_block"><br>
  ### Technologies 🧑‍💻
+<div style="display: inline_block"><br>
   <img align="center" alt="fip-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="center" alt="fip-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
   <img align="center" alt="fip-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
