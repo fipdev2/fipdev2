@@ -23,6 +23,7 @@
   <img align="center" alt="fip-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="fip-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="fip-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="right" alt="fip-docker" height="30" width="40" src="https://w1.pngwing.com/pngs/705/41/png-transparent-cloud-logo-docker-docker-inc-computer-software-kubernetes-microsoft-azure-cloud-computing-text-thumbnail.png">
   <img align="right" alt="fip-pic" height="200" style="border-radius: 100px;" src="https://static.wixstatic.com/media/6f8d3b_35d651d28cc94931a8916f8ac41f43d1~mv2.png/v1/fill/w_1024,h_1024,al_c/6f8d3b_35d651d28cc94931a8916f8ac41f43d1~mv2.png">
 </div>
   
