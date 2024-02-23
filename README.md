@@ -10,12 +10,13 @@
  ##
  
 <div>
+  ### Git stats 🧑‍💻
   <img height="196em" src="https://github-readme-stats.vercel.app/api?username=fipdev2&show_icons=true&theme=radical">
   <img height="196em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&theme=radical&layout=compact">
 </div>
 
- ### Technologies 🧑‍💻
 <div style="display: inline_block"><br>
+ ### Technologies 🧑‍💻
   <img align="center" alt="fip-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="center" alt="fip-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
   <img align="center" alt="fip-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
