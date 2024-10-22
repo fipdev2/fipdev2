@@ -2,10 +2,10 @@
 
 
 
-🔭 2 years of voluntary work in web development
-🌱 Improving my Docker and Java skills
-😄 Proficient in Node.js and React development
-⚡ Fun fact: I'm a weeb and gym lover at the same time
+- 🔭 2 years of voluntary work in web development
+- 🌱 Improving my Docker and Java skills
+- 😄 Proficient in Node.js and React development
+- ⚡ Fun fact: I'm a weeb and gym lover at the same time
 
  ##
  
