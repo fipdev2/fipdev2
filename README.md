@@ -4,7 +4,7 @@
 
 - 🔭 3 years of experience working with web apps
 - 🌱 Always improving new technologies
-- 😄 Proficient in Node.js and PHP development
+- 😄 Proficient in JS and PHP development
 - ⚡ Fun fact: I'm a weeb and gym rat
 
  ##
